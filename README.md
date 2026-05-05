@@ -1,8 +1,8 @@
 # PostgreSQL-cheatsheet
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Operator  | Second Header | Example |
+| ------------- | ------------- | ------------- |
+| =  | Equal to  | WHERE school = 'USC'  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
