@@ -13,5 +13,5 @@
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
-| \|\|  | CONCAT values from multiple columns  | SELECT name \|\| ' works as a ' \|\| job  |
+| \|\|  | CONCAT within the same row  | SELECT name \|\| ' works as a ' \|\| job  |
 | Content Cell  | Content Cell  | Content Cell  |
