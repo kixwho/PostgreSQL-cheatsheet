@@ -11,7 +11,7 @@
 | BETWEEN  | Within a range  | WHERE salary BETWEEN 20000 AND 40000  |
 | IN  | Match one of a set of values  | WHERE last_name IN ('Bush', 'Roush')  |
 | LIKE  | Match a pattern (case sensitive)  | WHERE first_name LIKE 'Sam%'  |
-| Content Cell  | Content Cell  | Content Cell  |
+| ILIKE  | Match a pattern (case insensitive)  | WHERE first_name ILIKE 'sam%'  |
 | NOT  | Negates a condition  | WHERE first_name NOT ILIKE 'sam%'  |
 | \|\|  | CONCAT within the same row  | SELECT name \|\| ' works as a ' \|\| job  |
 | Content Cell  | Content Cell  | Content Cell  |
