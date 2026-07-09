@@ -14,4 +14,4 @@
 | ILIKE  | Match a pattern (case insensitive)  | WHERE first_name ILIKE 'sam%'  |
 | NOT  | Negates a condition  | WHERE first_name NOT ILIKE 'sam%'  |
 | \|\|  | CONCAT within the same row  | SELECT name \|\| ' works as a ' \|\| job  |
-| Content Cell  | Content Cell  | Content Cell  |
+| ~  | Matches regular expression  | WHERE product_code ~ '^[A-Z]{2}[0-9]{4}$'  |
