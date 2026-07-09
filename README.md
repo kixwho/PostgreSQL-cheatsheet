@@ -3,7 +3,7 @@
 | Operator  | Function | Example |
 | ------------- | ------------- | ------------- |
 | =  | Equal to  | WHERE school = 'USC'  |
-| <>  | Not equal to  | WHERE school <> 'UCLA'  |
+| <> or !=  | Not equal to  | WHERE school <> 'UCLA'  |
 | >  | Greater than  | WHERE salary > 20000  |
 | <  | Less than  | WHERE salary < 60500  |
 | >=  | Greater than or equal to  | WHERE salary >= 20000  |
