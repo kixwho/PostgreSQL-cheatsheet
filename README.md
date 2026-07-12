@@ -1,4 +1,4 @@
-<img width="562.4" height="167" alt="image" src="https://github.com/user-attachments/assets/1b193a97-2281-429c-8af4-a96f4f744d45" />
+<img width="562" height="131" alt="image" src="https://github.com/user-attachments/assets/4fc578e1-64bb-44d2-9589-e80decfcf4db" />
 
 | Operator  | Function | Example |
 | ------------- | ------------- | ------------- |
