@@ -15,3 +15,6 @@
 | NOT  | Negates a condition  | WHERE first_name NOT ILIKE 'sam%'  |
 | \|\|  | CONCAT within the same row  | SELECT name \|\| ' works as a ' \|\| job  |
 | ~  | Matches regular expression  | WHERE product_code ~ '^[A-Z]{2}[0-9]{4}$'  |
+
+## Practice resources
+[LeetCode SQL 50 study plan](https://leetcode.com/studyplan/top-sql-50/) covers all the essential patterns :)
