@@ -20,3 +20,5 @@ Need a bridge between Excel and SQL? [SQL Excel translator](https://github.com/k
 
 ## Practice resources
 [LeetCode SQL 50 study plan](https://leetcode.com/studyplan/top-sql-50/) covers all the essential patterns :)
+
+[Browser-based SQLite playground](https://sqliteviz.com/app/) Drop a data file, start querying in SQL immediately. No installation needed 👍
